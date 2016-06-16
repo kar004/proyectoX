@@ -1,0 +1,62 @@
+{
+	"ImportPath": "github.com/proyecto",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.10.0-19-gf3cfb45",
+			"Rev": "f3cfb454f4c209e6668c95216c4744b8fddb2356"
+		},
+		{
+			"ImportPath": "github.com/cenkalti/backoff",
+			"Comment": "v1.0.0-7-gcdf48bb",
+			"Rev": "cdf48bbc1eb78d1349cbda326a4a037f7ba565c6"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "0c1f6d65b5a189c2250d10e71a5506f06f9fa0a0"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.0.0-12-ga687089",
+			"Rev": "a68708917c6a4f06314ab4e52493cc61359c9d42"
+		},
+		{
+			"ImportPath": "github.com/hailocab/go-hostpool",
+			"Rev": "e80d13ce29ede4452c43dea11e79b9bc8a15b478"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/pbkdf2",
+			"Rev": "f3241ce8505855877cc8a9717bd61a0f7c4ea83c"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "62bee037599929a6e9146f29d10dd5208c43507d"
+		},
+		{
+			"ImportPath": "gopkg.in/dancannon/gorethink.v2",
+			"Comment": "v2.0.4",
+			"Rev": "de072a9c0eff5bd52ef81fe45b6abeccde74bd13"
+		},
+		{
+			"ImportPath": "gopkg.in/dancannon/gorethink.v2/encoding",
+			"Comment": "v2.0.4",
+			"Rev": "de072a9c0eff5bd52ef81fe45b6abeccde74bd13"
+		},
+		{
+			"ImportPath": "gopkg.in/dancannon/gorethink.v2/ql2",
+			"Comment": "v2.0.4",
+			"Rev": "de072a9c0eff5bd52ef81fe45b6abeccde74bd13"
+		},
+		{
+			"ImportPath": "gopkg.in/dancannon/gorethink.v2/types",
+			"Comment": "v2.0.4",
+			"Rev": "de072a9c0eff5bd52ef81fe45b6abeccde74bd13"
+		},
+		{
+			"ImportPath": "gopkg.in/fatih/pool.v2",
+			"Rev": "cba550ebf9bce999a02e963296d4bc7a486cb715"
+		}
+	]
+}
